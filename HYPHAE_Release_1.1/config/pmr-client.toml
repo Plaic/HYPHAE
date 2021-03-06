@@ -1,0 +1,6 @@
+
+#General mod settings
+[general]
+	#Whether to hold to use perspective
+	"Hold To Use" = false
+
