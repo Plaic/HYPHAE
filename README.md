@@ -1,5 +1,5 @@
 # HYPHAE
-#### A modern-beta, nostalgic modpack which uses [**Golden Days**](https://breakdance.github.io/breakdance/) as the base resource pack -- also uses a custom resource pack and different mods to enhance your gameplay!
+#### A modern-beta, nostalgic modpack which uses [**Golden Days**](https://www.curseforge.com/minecraft/texture-packs/golden-days) as the base resource pack -- also uses a custom resource pack and different mods to enhance your gameplay!
 #### Features 3D blocks, 3D-to-2D items, nostalgic discs, music, sounds, improved features from Golden Days, better HUD and GUI designs, and more!
 <img src="https://cdn.discordapp.com/attachments/814576703316819979/817588847125725235/logo.png" width="400" height="180">
 
