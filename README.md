@@ -1,10 +1,10 @@
 # :chains: LINKS
 
-**`Discord Server:` **[**Click Here**](https://discord.gg/tdYkt44Nge)
+`Discord Server:` [**Click Here**](https://discord.gg/tdYkt44Nge)
 
-**`Installation:` ** [**Click Here**](https://github.com/Plaic/HYPHAE/blob/main/INSTALLATION.md)
+`Installation:`  [**Click Here**](https://github.com/Plaic/HYPHAE/blob/main/INSTALLATION.md)
 
-**`Screenshots:` ** [**Click Here**](https://github.com/Plaic/HYPHAE/blob/main/GALLERY.md)
+`Screenshots:`  [**Click Here**](https://github.com/Plaic/HYPHAE/blob/main/GALLERY.md)
 
 # :cherry_blossom: ABOUT 
 
