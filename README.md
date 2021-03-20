@@ -1,6 +1,6 @@
 # :arrow_down: ​DOWNLOADS
 
-#### A quick download button? [**Click here!**](https://github.com/Plaic/HYPHAE/raw/main/HYPHAE%20Modpack%201.1a.zip)
+#### A quick download button? [**Click here!**](https://github.com/Plaic/HYPHAE/raw/main/HYPHAE%201.1a.zip)
 
 For the modpack installation, refer to the installation manual.
 
