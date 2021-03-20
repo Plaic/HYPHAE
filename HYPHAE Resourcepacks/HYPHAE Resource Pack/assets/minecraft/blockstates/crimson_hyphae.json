@@ -1,0 +1,19 @@
+{
+  "variants": {
+  
+  
+  
+    "axis=x": {
+      "y": 90,
+      "model": "minecraft:block/crimson_hyphae"
+    },
+    "axis=y": {
+      "y": 90,
+      "model": "minecraft:block/crimson_hyphae"
+    },
+	"axis=z": {
+      "y": 90,
+      "model": "minecraft:block/crimson_hyphae"
+    }
+  }
+}

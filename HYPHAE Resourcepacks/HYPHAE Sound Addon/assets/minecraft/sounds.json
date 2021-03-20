@@ -1,0 +1,35 @@
+{
+  "item.crop.plant": {
+    "replace": "true",
+    "sounds": [{
+        "name": "dig/grass1"
+      },
+      {
+        "name": "dig/grass2"
+      },
+      {
+        "name": "dig/grass3"
+      },
+      {
+        "name": "dig/grass4"
+      }
+    ]
+  },
+
+  "block.crop.break": {
+    "replace": "true",
+    "sounds": [{
+        "name": "dig/grass1"
+      },
+      {
+        "name": "dig/grass2"
+      },
+      {
+        "name": "dig/grass3"
+      },
+      {
+        "name": "dig/grass4"
+      }
+    ]
+  }
+}

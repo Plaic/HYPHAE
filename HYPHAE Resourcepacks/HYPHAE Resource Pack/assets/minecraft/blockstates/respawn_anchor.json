@@ -1,0 +1,22 @@
+{
+  "variants": {
+  
+  
+  
+		"charges=0": {
+		 "model": "minecraft:block/nether_reactor_off"
+		},
+		"charges=1": {
+		 "model": "minecraft:block/nether_reactor_on"
+		},
+		"charges=2": {
+		 "model": "minecraft:block/nether_reactor_on"
+		},
+		"charges=3": {
+		 "model": "minecraft:block/nether_reactor_on"
+		},
+		"charges=4": {
+		 "model": "minecraft:block/nether_reactor_on"
+		}
+	}
+}

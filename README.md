@@ -1,6 +1,6 @@
 # :chains: LINKS
 
-`Discord Server:` [**Click Here**](https://discord.gg/tdYkt44Nge)
+`Discord Server:` unavailable for now lol
 
 `Installation:`  [**Click Here**](https://github.com/Plaic/HYPHAE/blob/main/INSTALLATION.md)
 
@@ -32,8 +32,8 @@ Features 3D blocks, 3D-to-2D items, nostalgic discs, music, sounds, improved fea
 - [**Mouse Tweaks**](https://www.curseforge.com/minecraft/mc-mods/mouse-tweaks) and [**Inventory Tweaks**](https://www.curseforge.com/minecraft/mc-mods/inventory-tweaks);
 - [**Perspective Mod Redux**](https://www.curseforge.com/minecraft/mc-mods/perspective-mod-redux);
 - [**No LAN Cheating**](https://www.curseforge.com/minecraft/mc-mods/no-lan-cheating);
-- [**Xaero's Minimap**](https://www.curseforge.com/minecraft/mc-mods/xaeros-minimap) and [**Xaero's World Map**](https://www.curseforge.com/minecraft/mc-mods/xaeros-world-map)
-- 
+- [**Xaero's Minimap**](https://www.curseforge.com/minecraft/mc-mods/xaeros-minimap) and [**Xaero's World Map**](https://www.curseforge.com/minecraft/mc-mods/xaeros-world-map);
+- Shulker Preview
 
 #### The Modpack also comes with [**OptiFine**](https://optifine.net) and [**FPS Reducer**](https://www.curseforge.com/minecraft/mc-mods/fps-reducer) included for maximum performance and stability!
 

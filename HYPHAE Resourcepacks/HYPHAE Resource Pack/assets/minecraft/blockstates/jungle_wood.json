@@ -1,0 +1,19 @@
+{
+  "variants": {
+  
+  
+  
+    "axis=x": {
+      "y": 90,
+      "model": "minecraft:block/jungle_wood"
+    },
+    "axis=y": {
+      "y": 90,
+      "model": "minecraft:block/jungle_wood"
+    },
+	"axis=z": {
+      "y": 90,
+      "model": "minecraft:block/jungle_wood"
+    }
+  }
+}

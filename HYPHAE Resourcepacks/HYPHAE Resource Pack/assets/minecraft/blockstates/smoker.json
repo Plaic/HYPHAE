@@ -1,0 +1,40 @@
+{
+  "variants": {
+  
+  
+  
+    "facing=east,lit=true": {
+      "y": 90,
+      "model": "minecraft:block/oven_lit"
+    },
+    "facing=north,lit=true": {
+      "model": "minecraft:block/oven_lit"
+    },
+    "facing=south,lit=true": {
+      "y": 180,
+      "model": "minecraft:block/oven_lit"
+    },
+    "facing=west,lit=true": {
+      "y": 270,
+      "model": "minecraft:block/oven_lit"
+    },
+	
+	
+	
+	"facing=east,lit=false": {
+      "y": 90,
+      "model": "minecraft:block/oven_unlit"
+    },
+    "facing=north,lit=false": {
+      "model": "minecraft:block/oven_unlit"
+    },
+    "facing=south,lit=false": {
+      "y": 180,
+      "model": "minecraft:block/oven_unlit"
+    },
+    "facing=west,lit=false": {
+      "y": 270,
+      "model": "minecraft:block/oven_unlit"
+    }	
+  }
+}

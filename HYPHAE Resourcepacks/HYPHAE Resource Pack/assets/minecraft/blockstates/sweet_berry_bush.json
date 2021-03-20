@@ -1,0 +1,19 @@
+{
+  "variants": {
+  
+  
+  
+		"age=0": {
+		 "model": "minecraft:block/berry_bush_growth0"
+		},
+		"age=1": {
+		 "model": "minecraft:block/berry_bush_growth1"
+		},
+		"age=2": {
+		 "model": "minecraft:block/berry_bush_growth2"
+		},
+		"age=3": {
+		 "model": "minecraft:block/berry_bush_final"
+		}
+	}
+}

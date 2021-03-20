@@ -1,0 +1,19 @@
+{
+  "variants": {
+  
+  
+  
+    "axis=x": {
+      "y": 90,
+      "model": "minecraft:block/warped_stem"
+    },
+    "axis=y": {
+      "y": 90,
+      "model": "minecraft:block/warped_stem"
+    },
+	"axis=z": {
+      "y": 90,
+      "model": "minecraft:block/warped_stem"
+    }
+  }
+}
