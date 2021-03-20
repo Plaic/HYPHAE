@@ -1,10 +1,24 @@
+# :arrow_down: ​DOWNLOADS
+
+#### A quick download button? [**Click here!**](https://github.com/Plaic/HYPHAE/raw/main/HYPHAE%20Modpack%201.1a.zip)
+
+For the modpack installation, refer to the installation manual.
+
+To install HYPHAE only as a resource pack, move both of the files inside of `resourcepacks` inside your resourcepack folder. You can also refer to the installation manual.
+
+
+
 # :chains: LINKS
 
-`Discord Server:` unavailable for now lol
+`Discord Server:` *unavailable*
 
-`Installation:`  [**Click Here**](https://github.com/Plaic/HYPHAE/blob/main/INSTALLATION.md)
+`Installation:`  [**Click here**](https://github.com/Plaic/HYPHAE/blob/main/INSTALLATION.md)
 
-`Screenshots:`  [**Click Here**](https://github.com/Plaic/HYPHAE/blob/main/GALLERY.md)
+`Screenshots:`  [**Click here**](https://github.com/Plaic/HYPHAE/blob/main/GALLERY.md)
+
+
+
+
 
 # :cherry_blossom: ABOUT 
 
