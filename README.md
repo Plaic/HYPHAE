@@ -47,7 +47,7 @@ Features 3D blocks, 3D-to-2D items, nostalgic discs, music, sounds, improved fea
 - [**Perspective Mod Redux**](https://www.curseforge.com/minecraft/mc-mods/perspective-mod-redux);
 - [**No LAN Cheating**](https://www.curseforge.com/minecraft/mc-mods/no-lan-cheating);
 - [**Xaero's Minimap**](https://www.curseforge.com/minecraft/mc-mods/xaeros-minimap) and [**Xaero's World Map**](https://www.curseforge.com/minecraft/mc-mods/xaeros-world-map);
-- Shulker Preview
+- [**Shulker Tooltip**](https://www.curseforge.com/minecraft/mc-mods/shulker-tooltip)
 
 #### The Modpack also comes with [**OptiFine**](https://optifine.net) and [**FPS Reducer**](https://www.curseforge.com/minecraft/mc-mods/fps-reducer) included for maximum performance and stability!
 
