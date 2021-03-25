@@ -1,6 +1,6 @@
 # :arrow_down: ​DOWNLOADS
 
-#### A quick download button? [**Click here!**](https://github.com/Plaic/HYPHAE/raw/main/HYPHAE%201.1a.zip)
+#### A quick download button? [**Click here!**](https://github.com/Plaic/HYPHAE/raw/main/HYPHAE%201.2.zip)
 
 For the modpack installation, refer to the installation manual.
 
@@ -35,22 +35,45 @@ Features 3D blocks, 3D-to-2D items, nostalgic discs, music, sounds, improved fea
 
 <img src="https://media.discordapp.net/attachments/814576703316819979/817608584380022815/SCREENIE_20.jpg" width="400" height="240">
 
-### Mods Included:
+### Mod List:
+
+​		As of 1.0:
 
 - [**Beta Days**](https://www.curseforge.com/minecraft/mc-mods/beta-days);
+
 - [**Damage Tilt**](https://www.curseforge.com/minecraft/mc-mods/damage-tilt);
+
 - [**No Recipe Book**](https://www.curseforge.com/minecraft/mc-mods/no-recipe-book);
+
 - [**Toast Control**](https://www.curseforge.com/minecraft/mc-mods/toast-control);
+
 - [**Just Enough Items**](https://www.curseforge.com/minecraft/mc-mods/jei); and add-ons such as
+
 - [**JEI Integration**](https://www.curseforge.com/minecraft/mc-mods/jei-integration) and [**JER**](https://www.curseforge.com/minecraft/mc-mods/just-enough-resources-jer);
+
 - [**Mouse Tweaks**](https://www.curseforge.com/minecraft/mc-mods/mouse-tweaks) and [**Inventory Tweaks**](https://www.curseforge.com/minecraft/mc-mods/inventory-tweaks);
+
 - [**Perspective Mod Redux**](https://www.curseforge.com/minecraft/mc-mods/perspective-mod-redux);
+
 - [**No LAN Cheating**](https://www.curseforge.com/minecraft/mc-mods/no-lan-cheating);
-- [**Xaero's Minimap**](https://www.curseforge.com/minecraft/mc-mods/xaeros-minimap) and [**Xaero's World Map**](https://www.curseforge.com/minecraft/mc-mods/xaeros-world-map);
-- [**Shulker Tooltip**](https://www.curseforge.com/minecraft/mc-mods/shulker-tooltip)
+
+- [**Xaero's Minimap: Fair Play Edition**](https://www.curseforge.com/minecraft/mc-mods/xaeros-minimap-fair-play-edition);
+
+  As of 1.1:
+
+- [**Shulker Tooltip**](https://www.curseforge.com/minecraft/mc-mods/shulker-tooltip);
+
+  As of 1.2:
+
+- [**Super Secret Settings Reborn**](https://www.curseforge.com/minecraft/mc-mods/shulker-tooltip);
+
+- [**Sound Filters**](https://www.curseforge.com/minecraft/mc-mods/sound-filters);
+
+- [**Camera Overhaul (Forge Port)**](https://www.curseforge.com/minecraft/mc-mods/camera-overhaul-forge); and
+
+- [**Ambient Sounds 3**](https://www.curseforge.com/minecraft/mc-mods/ambientsounds)
 
 #### The Modpack also comes with [**OptiFine**](https://optifine.net) and [**FPS Reducer**](https://www.curseforge.com/minecraft/mc-mods/fps-reducer) included for maximum performance and stability!
-
 
 `Inspired by mods such as TerraFirmaCraft, Aether and inspired by games such as`
 `Runescape, Terraria, EarthBound and more!`

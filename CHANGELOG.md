@@ -1,3 +1,11 @@
+# Version 1.2
+
+- Updated OptiFine and some mods
+- Added more mods to complement the gameplay
+- Fixed the "Slipgate Unlimited"'s faulty title
+- Config changes
+- Removed Herobrine
+
 # Version 1.1a
 
 - Bugfixes to rendering and others
