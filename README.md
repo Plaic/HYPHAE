@@ -1,10 +1,10 @@
 # :arrow_down: ​DOWNLOADS
 
-#### A quick download button? [**Click here!**](https://github.com/Plaic/HYPHAE/raw/main/HYPHAE%201.2.zip)
+#### A quick download button? [**Click here!**](https://github.com/Plaic/Crimbeetle/raw/main/Crimbeetle%201.3.zip)
 
 For the modpack installation, refer to the installation manual.
 
-To install HYPHAE only as a resource pack, move both of the files inside of `resourcepacks` inside your resourcepack folder. You can also refer to the installation manual.
+To install Crimbeetle only as a resource pack, move both of the files inside of `resourcepacks` inside your resourcepack folder. You can also refer to the installation manual.
 
 
 
@@ -18,14 +18,12 @@ To install HYPHAE only as a resource pack, move both of the files inside of `res
 
 
 
-
-
-# :cherry_blossom: ABOUT 
+# :beetle: ABOUT 
 
 #### A modern-beta, nostalgic Modpack which has [**Golden Days**](https://www.curseforge.com/minecraft/texture-packs/golden-days) as the base resource pack -- also uses a custom resource pack and different mods to enhance your gameplay!
 Features 3D blocks, 3D-to-2D items, nostalgic discs, music, sounds, improved features from Golden Days, better HUD and GUI designs, and more!
 
-<img src="https://cdn.discordapp.com/attachments/814576703316819979/817588847125725235/logo.png" width="600" height="240">
+<img src="https://media.discordapp.net/attachments/814576702868684824/827587625686532156/crimbeetle.png" width="1000" height="150">
 
 <img src="https://media.discordapp.net/attachments/814576703316819979/817595298368847922/SCREENIE_26.jpg" width="400" height="240">
 
@@ -79,3 +77,7 @@ Features 3D blocks, 3D-to-2D items, nostalgic discs, music, sounds, improved fea
 `Runescape, Terraria, EarthBound and more!`
 `All rights reservered. Assets are from Mojang, the Golden Days community and`
 `myself too!`
+
+
+
+<img src="https://cdn.discordapp.com/attachments/814576702868684824/827588550262390814/crimbeetleicon.png" width="130" height="120">

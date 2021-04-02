@@ -1,5 +1,13 @@
 # GALLERY
 
+The gallery will soon change! The current images are outdated and will be updated soon!
+
+Sorry for the inconvenience! -Plaic
+
+
+
+
+
 Most of the screenshots were either taken in-game with preset settings, or with [**RestWorld**](https://www.planetminecraft.com/project/restworld-a-complete-resourcepack-testing-world-for-1-15-2/).
 
 Go check RestWorld out, it's a good map to test out resource packs!
@@ -150,3 +158,4 @@ You can right-click an image and open in a new tab to see the full size.
 
 
 
+<img src="https://cdn.discordapp.com/attachments/814576702868684824/827588550262390814/crimbeetleicon.png" width="130" height="120">
