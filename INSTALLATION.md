@@ -2,7 +2,7 @@
 ***
 **1. You will need Crimbeetle, the modpack itself, of course.**
 
-#### Click [**here**](https://github.com/Plaic/Crimbeetle/raw/main/Crimbeetle&20v1.3.zip) to download Crimbeetle.
+#### Actually I don't need to put the download link twice. The downlaod link is in README.md.
 ***
 **2. Now download Golden Days... but...**
 I can't redistribute redistribute the resource pack, so you will have to download it yourself. 
