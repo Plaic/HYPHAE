@@ -1,10 +1,12 @@
 # :arrow_down: ​DOWNLOAD
 
-#### [**DOWNLOAD**](https://github.com/Plaic/Crimbeetle/raw/main/Crimbeetle%201.3.zip) **CRIMBEETLE v1.4**
+#### [**DOWNLOAD**](https://github.com/Plaic/Crimbeetle/raw/main/Crimbeetle%201.3.zip) **CRIMBEETLE v1.3**
 
-For the modpack installation, refer to the installation manual.
+As of Crimbeetle v1.3, we are hosting the download in Mega. GitHub keeps stopping us from updating the pack over "data quota".
 
-To install Crimbeetle only as a resource pack, move both of the files inside of `resourcepacks` inside your resourcepack folder. You can also refer to the installation manual.
+For the modpack installation, refer to the installation page!
+
+For the resourcepack installation, move both of the files inside of `resourcepacks` inside your resourcepack folder!
 
 
 
