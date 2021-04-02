@@ -1,6 +1,6 @@
 # :arrow_down: ​DOWNLOAD
 
-#### [**DOWNLOAD**](https://github.com/Plaic/Crimbeetle/raw/main/Crimbeetle%201.3.zip) **CRIMBEETLE v1.3**
+#### [**DOWNLOAD**](https://mega.nz/file/7vhw2ACQ#xJlBJrkGAxHlTf9IuOk8WXTaMr-nI4tPY8MtLT1GkDU) **CRIMBEETLE v1.3**
 
 As of Crimbeetle v1.3, we are hosting the download in Mega. GitHub keeps stopping us from updating the pack over "data quota".
 
