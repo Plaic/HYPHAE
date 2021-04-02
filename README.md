@@ -1,6 +1,6 @@
-# :arrow_down: ​DOWNLOADS
+# :arrow_down: ​DOWNLOAD
 
-#### A quick download button? [**Click here!**](https://github.com/Plaic/Crimbeetle/raw/main/Crimbeetle%201.3.zip)
+#### [**DOWNLOAD**](https://github.com/Plaic/Crimbeetle/raw/main/Crimbeetle%201.3.zip) **CRIMBEETLE v1.4**
 
 For the modpack installation, refer to the installation manual.
 
